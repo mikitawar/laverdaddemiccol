@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Bienvenido a la verdad sobre <a href="https://nextjs.org">Miccol!</a>
+          Fotos exclusivas de Miccol recopiladas por <a href="https://nextjs.org">La Legión!</a>
         </h1>
 
         <p className={styles.description}>
